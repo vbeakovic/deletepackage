@@ -1,0 +1,14 @@
+Package: detelepackage
+Title: Prints Hello World on the console
+Version: 0.0.0.9000
+Authors@R: person("Valter", "Beakovic", email = "valter.beakovic@gmail.com", role = c("aut", "cre"))
+Description: Is it not clear what it does?
+Depends: R (>= 3.5.0)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
